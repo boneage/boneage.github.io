@@ -660,7 +660,7 @@ $(document).ready(function() {
 		boneage.setHint();
 
 		boneage.report =
-			'<b>PROCEDURE PERFORMED:</b> BONE AGE STUDY<br><br>' +
+			'<b>EXAM:</b> BONE AGE STUDY<br><br>' +
 			'<b>COMPARISON:</b> [None].<br><br>' +
 			'<b>TECHNIQUE:</b> Single frontal view of the left hand.<br><br>' +
 			'<b>FINDINGS:</b><br>' +
@@ -678,7 +678,7 @@ $(document).ready(function() {
 			'<br>' +
 			'By the method of Greulich and Pyle, the bone age is estimated to be ' +
 				strMtoY(pt.boneAge) + '.<br><br>' +
-			'<b>CONCLUSION:</b>' + '<br>' +
+			'<b>IMPRESSION:</b>' + '<br>' +
 			'Chronological Age: ' + strMtoY(pt.age) + '<br>' +
 			'Estimated Bone Age: ' + strMtoY(pt.boneAge) + '<br>' +
 			'<br>' +
