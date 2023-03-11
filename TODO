@@ -1,0 +1,10 @@
+==index.html==
+[x] 107-171: update image filenames
+[x] make viewport of images bigger
+
+==script.js==
+[x] 13-20: update ages, BFages, SDs.
+[x] update Hints for boys
+[x] 460: update Hints for girls (bfh)
+[x] update boneage.report text to remove GP and Brush Foundation
+[x] minify script.js, and update index.html to use the script.min.js
